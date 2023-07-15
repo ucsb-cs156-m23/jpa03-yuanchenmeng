@@ -8,7 +8,7 @@ Running at: http://jpa03-yuanchen.dokku-07.cs.ucsb.edu
 
 
 
-Running at: <https://starter-jpa03.dokku-00.cs.ucsb.edu>
+
 
 # Configuring GitHub Pages for the documentation
 
